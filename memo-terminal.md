@@ -13,3 +13,5 @@ le depôt distant se trouve sur githup
 git add :prepar les modifications
 git commit enrigistre les modification
 nano: permet d'ajouter des modification, corriger et supprimer des texte
+git clone: permet de copier un depôt git distant sur son ordinateur
+git pull: permet de recuperer et d'intégrer les motdification du depôt distant dans la branche local
